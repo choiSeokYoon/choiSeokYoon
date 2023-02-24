@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiSeokYoon&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiSeokYoon&layout=compact)](https://github.com/choiSeokYoon/github-readme-stats)
  <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
