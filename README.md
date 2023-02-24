@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hello, I am Choi Seok-yoon, a new developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hello,+I+am+Choi+Seok-yoon,+a+new+developer.)](https://git.io/typing-svg)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiSeokYoon&layout=compact)](https://github.com/choiSeokYoon/github-readme-stats)
  
  
