@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiSeokYoon&layout=compact)](https://github.com/choiSeokYoon/github-readme-stats)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4736F7&background=7FFFE000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiSeokYoon&layout=compact)](https://github.com/choiSeokYoon/github-readme-stats)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4736F7&background=7FFFE000&width=435&lines=안녕하세요)](https://git.io/typing-svg)
  
  <h2>FRONT ✨<h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
