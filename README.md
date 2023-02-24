@@ -27,6 +27,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Recoil-FF4655?style=flat&logo=Recoil&logoColor=white"/>
  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+ 
+ <h2>하이</h2>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
