@@ -39,6 +39,9 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
    <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
  
+ <h2>STUDYING</h2>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ 
 
  
  
