@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiSeokYoon&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiSeokYoon&layout=compact)](https://github.com/choiSeokYoon/github-readme-stats)
@@ -33,4 +34,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
+</div>
+ 
  
